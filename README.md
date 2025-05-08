@@ -1,0 +1,2 @@
+The objective of this topic is to explore and apply various imbalance learning techniques--Random Oversampling, Random Undersampling, ROSE (Random Over-Sampling Examples), and SMOTE (Synthetic Minority Over-sampling Technique)—to 
+improve the performance of machine learning models on an imbalanced dataset. You will evaluate model performance using Precision, Recall, G-Mean, and AUC (Area Under the Curve).
